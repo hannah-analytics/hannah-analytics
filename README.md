@@ -14,4 +14,6 @@ I’m developing my skills in Excel, data analysis, and presenting findings thro
 Owning a small retail shop in Uganda sparked my interest in understanding customer behavior. Recording daily sales and listening to customer requests helped me adjust the products I stocked to better serve the local market.
 
 ## My portfolio
-I’m building this portfolio to share my analytics projects, explain my methods and findings, and reflect on what I learn.
+### [Electricity Access in Uganda, 2000–2023](https://github.com/hannah-analytics/uganda-electricity-access)
+
+An Excel analysis of World Bank data showing electricity access trends in Uganda, including a line chart, key findings, and limitations.
